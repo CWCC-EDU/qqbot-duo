@@ -1,0 +1,232 @@
+[
+  {
+    "package": "nonebot-plugin-alconna",
+    "version": "0.62.1",
+    "repository": "https://github.com/nonebot/plugin-alconna"
+  },
+  {
+    "package": "nonebot-plugin-apscheduler",
+    "version": "0.5.0",
+    "repository": "https://github.com/nonebot/plugin-apscheduler"
+  },
+  {
+    "package": "nonebot_plugin_dialectlist",
+    "version": "3.0.1",
+    "repository": "https://github.com/ChenXu233/nonebot_plugin_dialectlist"
+  },
+  {
+    "package": "nonebot_plugin_groupmate_waifu-master",
+    "version": "1.6.1",
+    "repository": "https://github.com/KarisAya/nonebot_plugin_groupmate_waifu"
+  },
+  {
+    "package": "nonebot-plugin-guild-patch",
+    "version": "0.2.3",
+    "repository": "https://github.com/mnixry/nonebot-plugin-guild-patch"
+  },
+  {
+    "package": "nonebot-plugin-heweather",
+    "version": "0.11.0",
+    "repository": "https://github.com/kexue-z/nonebot-plugin-heweather"
+  },
+  {
+    "package": "nonebot_plugin_htmlrender",
+    "version": "0.8.1",
+    "repository": "https://github.com/kexue-z/nonebot-plugin-htmlrender"
+  },
+  {
+    "package": "nonebot_plugin_imageutils",
+    "version": "0.1.17",
+    "repository": "https://github.com/MemeCrafters/nonebot-plugin-imageutils"
+  },
+  {
+    "package": "nonebot-plugin-localstore",
+    "version": "0.7.4",
+    "repository": "https://github.com/nonebot/plugin-localstore"
+  },
+  {
+    "package": "nonebot_plugin_memes",
+    "version": "0.8.1",
+    "repository": "https://github.com/MemeCrafters/nonebot-plugin-memes"
+  },
+  {
+    "package": "nonebot-plugin-memes-api",
+    "version": "0.5.1",
+    "repository": "https://github.com/MemeCrafters/nonebot-plugin-memes-api"
+  },
+  {
+    "package": "nonebot-plugin-orm",
+    "version": "0.8.3",
+    "repository": "https://github.com/nonebot/plugin-orm"
+  },
+  {
+    "package": "nonebot-plugin-picsearcher",
+    "version": "0.1.10",
+    "repository": "https://github.com/synodriver/nonebot_plugin_picsearcher"
+  },
+  {
+    "package": "nonebot-plugin-remake",
+    "version": "0.4.4",
+    "repository": "https://github.com/noneplugin/nonebot-plugin-remake"
+  },
+  {
+    "package": "nonebot-plugin-send-anything-anywhere",
+    "version": "0.7.1",
+    "repository": "https://github.com/nonebot/plugin-send-anything-anywhere"
+  },
+  {
+    "package": "nonebot-plugin-tortoise-orm",
+    "version": "0.1.4",
+    "repository": "https://github.com/kexue-z/nonebot-plugin-tortoise-orm"
+  },
+  {
+    "package": "nonebot_plugin_word_bank2",
+    "version": "0.2.1",
+    "repository": "https://github.com/kexue-z/nonebot-plugin-word-bank2"
+  },
+  {
+    "package": "nonebot_plugin_animalVoice",
+    "version": "0.2.2",
+    "repository": "https://github.com/ANGJustinl/nonebot_plugin_animalVoice"
+  },
+  {
+    "package": "nonebot_plugin_antiflash",
+    "version": "0.2.3",
+    "repository": "https://github.com/MinatoAquaCrews/nonebot_plugin_antiflash"
+  },
+  {
+    "package": "nonebot_plugin_antiinsult",
+    "version": "0.7.1",
+    "repository": "https://github.com/tkgs0/nonebot-plugin-antiinsult"
+  },
+  {
+    "package": "nonebot_plugin_antirecall",
+    "version": "0.1.4",
+    "repository": "https://github.com/Jerry080801/nonebot-plugin-antirecall"
+  },
+  {
+    "package": "nonebot_plugin_batarot",
+    "version": "0.3.0",
+    "repository": "https://github.com/Perseus037/nonebot_plugin_batarot"
+  },
+  {
+    "package": "nonebot_plugin_bilibilibot",
+    "version": "2.3.4",
+    "repository": "https://github.com/TDK1969/nonebot_plugin_bilibilibot"
+  },
+  {
+    "package": "nonebot_plugin_bottle",
+    "version": "2.1.1.0",
+    "repository": "https://github.com/Tosd0/nonebot_plugin_bottle"
+  },
+  {
+    "package": "nonebot_plugin_bread_shop",
+    "version": "0.1.14",
+    "repository": "https://github.com/Mai-icy/nonebot-plugin-bread-shop"
+  },
+  {
+    "package": "nonebot_plugin_chatrecorder",
+    "version": "0.7.0",
+    "repository": "https://github.com/noneplugin/nonebot-plugin-chatrecorder"
+  },
+  {
+    "package": "nonebot_plugin_crazy_thursday",
+    "version": "0.2.8",
+    "repository": "https://github.com/MinatoAquaCrews/nonebot_plugin_crazy_thursday"
+  },
+  {
+    "package": "nonebot_plugin_eventmonitor",
+    "version": "0.4.9",
+    "repository": "https://github.com/Reversedeer/nonebot_plugin_eventmonitor"
+  },
+  {
+    "package": "nonebot_plugin_hikarisearch",
+    "version": "0.1.7",
+    "repository": "https://github.com/noneplugin/nonebot-plugin-hikarisearch"
+  },
+  {
+    "package": "nonebot_plugin_homo_mathematician",
+    "version": "0.0.7",
+    "repository": "https://github.com/Special-Week/Hinata-Bot"
+  },
+  {
+    "package": "nonebot_plugin_horserace",
+    "version": "2.2",
+    "repository": "https://github.com/shinianj/nonebot_plugin_horserace"
+  },
+  {
+    "package": "nonebot_plugin_learning_chat",
+    "version": "0.4.0",
+    "repository": "https://github.com/CMHopeSunshine/nonebot-plugin-learning-chat"
+  },
+  {
+    "package": "nonebot_plugin_matcher_block",
+    "version": "0.2.0",
+    "repository": "https://github.com/KarisAya/nonebot_plugin_matcher_block"
+  },
+  {
+    "package": "nonebot_plugin_miao",
+    "version": "1.1.0",
+    "repository": "https://github.com/CMHopeSunshine/nonebot-plugin-miao"
+  },
+  {
+    "package": "nonebot_plugin_morning",
+    "version": "0.3.2",
+    "repository": "https://github.com/MinatoAquaCrews/nonebot_plugin_morning"
+  },
+  {
+    "package": "nonebot_plugin_namelist",
+    "version": "0.2.0",
+    "repository": "https://github.com/A-kirami/nonebot-plugin-namelist"
+  },
+  {
+    "package": "nonebot_plugin_person",
+    "version": "0.0.5",
+    "repository": "https://github.com/jcjrobert/nonebot-plugin-person"
+  },
+  {
+    "package": "nonebot_plugin_poke",
+    "version": "0.3.0",
+    "repository": "https://github.com/Agnes4m/nonebot_plugin_poke"
+  },
+  {
+    "package": "nonebot_plugin_quote",
+    "version": "0.5.1",
+    "repository": "https://github.com/RongRongJi/nonebot_plugin_quote"
+  },
+  {
+    "package": "nonebot_plugin_savor",
+    "version": "0.2.2",
+    "repository": "https://github.com/A-kirami/nonebot-plugin-savor"
+  },
+  {
+    "package": "nonebot_plugin_send",
+    "version": "0.1.4",
+    "repository": "https://github.com/sena-nana/nonebot-plugin-send"
+  },
+  {
+    "package": "nonebot_plugin_session",
+    "version": "0.3.2",
+    "repository": "https://github.com/noneplugin/nonebot-plugin-session"
+  },
+  {
+    "package": "nonebot_plugin_session_orm",
+    "version": "0.2.2",
+    "repository": "https://github.com/noneplugin/nonebot-plugin-session-orm"
+  },
+  {
+    "package": "nonebot_plugin_trace_moe",
+    "version": "0.1.0",
+    "repository": "https://github.com/Ikaros-521/nonebot_plugin_trace_moe"
+  },
+  {
+    "package": "nonebot_plugin_userinfo",
+    "version": "0.2.6",
+    "repository": "https://github.com/noneplugin/nonebot-plugin-userinfo"
+  },
+  {
+    "package": "nonebot_plugin_what2eat",
+    "version": "0.3.6",
+    "repository": "https://github.com/MinatoAquaCrews/nonebot_plugin_what2eat"
+  }
+]

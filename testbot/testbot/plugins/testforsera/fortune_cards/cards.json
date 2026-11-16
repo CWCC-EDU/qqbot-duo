@@ -1,0 +1,322 @@
+﻿{
+  "千鸟酱-01-大吉.png": {
+    "tier": "大吉",
+    "role": "千鸟酱",
+    "sha256": "5a4cd5836fd6d0d17def84a167b04c52bc5d7f08050fed066b06cf61746f0ae7"
+  },
+  "千鸟酱-02-中吉.png": {
+    "tier": "中吉",
+    "role": "千鸟酱",
+    "sha256": "e3fe4ed0ef6540db5c7595eac8a3687adef6d5f42b6ff759d116661a5ffb8c06"
+  },
+  "千鸟酱-03-小吉.png": {
+    "tier": "小吉",
+    "role": "千鸟酱",
+    "sha256": "4daa7bd6ce19803386bea17dcfbc3556200e26fbd356468a0f4f20765cdc08ec"
+  },
+  "千鸟酱-04-吉.png": {
+    "tier": "吉",
+    "role": "千鸟酱",
+    "sha256": "98c033de10d1393136942337ee0e635e362073f068510f95be2f05bf9a86dc93"
+  },
+  "千鸟酱-05-末吉.png": {
+    "tier": "末吉",
+    "role": "千鸟酱",
+    "sha256": "e6b55049476b81ca06ebd46d719fb32a90607033636e91e52d8aca8201c5a60e"
+  },
+  "千鸟酱-06-凶.png": {
+    "tier": "凶",
+    "role": "千鸟酱",
+    "sha256": "b41a2f4cf0a33fb3c7bce1fd3000bb13c8b6e3171b4fe6ff2729d3859e3b2b27"
+  },
+  "千鸟酱-07-大凶.png": {
+    "tier": "大凶",
+    "role": "千鸟酱",
+    "sha256": "c9ebb37461fb86118e667d792df5b08d510ffb5dae77947a45d2368a359c0050"
+  },
+  "千鸟酱-08-彩蛋.png": {
+    "tier": "彩蛋",
+    "role": "千鸟酱",
+    "sha256": "1c4c577b6cd894f60c3dca22a62eef8e1927d270b4940d01666c2e5ff939b1f0"
+  },
+  "雪儿-01-大吉.png": {
+    "tier": "大吉",
+    "role": "雪儿",
+    "sha256": "aebaceba095f47c7fd2c5f7ff7a508b2723743eb6ae60323187b73b2a0f5f608"
+  },
+  "雪儿-02-中吉.png": {
+    "tier": "中吉",
+    "role": "雪儿",
+    "sha256": "a15c6b42c03ac76a2f560e410dc51ccbfc06b2505369b22cb88bfc1dfed3ce0d"
+  },
+  "雪儿-03-小吉.png": {
+    "tier": "小吉",
+    "role": "雪儿",
+    "sha256": "a54e224ab47ed49a422d0996e822ed6a37b855c18ed8fb97932904183899cbcb"
+  },
+  "雪儿-04-吉.png": {
+    "tier": "吉",
+    "role": "雪儿",
+    "sha256": "1ff80c994962a22975725ac67f5ea980ffafdc96d6928f8ce95613fab03269a2"
+  },
+  "雪儿-05-末吉.png": {
+    "tier": "末吉",
+    "role": "雪儿",
+    "sha256": "611bdb86d3f288aa98e4d781f12d6dac11da727bc5d683430357ce2d780e7003"
+  },
+  "雪儿-06-凶.png": {
+    "tier": "凶",
+    "role": "雪儿",
+    "sha256": "714f92999581dac62d4ae30ccc007d3c763a23ed217a59075c718ec69ccb354f"
+  },
+  "雪儿-07-大凶.png": {
+    "tier": "大凶",
+    "role": "雪儿",
+    "sha256": "d5c1d185d46292622d2ca52803ea7404e83b1f6403628bf730adf72e58fe2c89"
+  },
+  "雪儿-08-彩蛋.png": {
+    "tier": "彩蛋",
+    "role": "雪儿",
+    "sha256": "ad67122d7de3708760b049ae8c075e5aef5ae2634af041a848610f9f46c1e650"
+  },
+  "喜曜河-01-大吉.png": {
+    "tier": "大吉",
+    "role": "喜曜河",
+    "sha256": "836e38ce9dd637e7834dfb43ace77b58b65cc5847e9b58265db5348925cb3d7e"
+  },
+  "喜曜河-02-中吉.png": {
+    "tier": "中吉",
+    "role": "喜曜河",
+    "sha256": "1e75ac130992430429f4445c164df9685d502447f64d68b19fd7530cccb5117c"
+  },
+  "喜曜河-03-小吉.png": {
+    "tier": "小吉",
+    "role": "喜曜河",
+    "sha256": "7b208980099bf686e08cb60584a0d1f10a340f07131e96c2cf29d8011d49a2da"
+  },
+  "喜曜河-04-吉.png": {
+    "tier": "吉",
+    "role": "喜曜河",
+    "sha256": "aac2eee25b17a59815775fcb473fa4214466773c8dc37b5c03c917a573161807"
+  },
+  "喜曜河-05-末吉.png": {
+    "tier": "末吉",
+    "role": "喜曜河",
+    "sha256": "472a2c6ee19ee998a3137869509da27bfce3a8c87b75c3daa9803e6653afb196"
+  },
+  "喜曜河-06-凶.png": {
+    "tier": "凶",
+    "role": "喜曜河",
+    "sha256": "79cd31ffd31cb907ee67f1fc31a47dacf3612fb1dc06904c585b9f180b1aab52"
+  },
+  "喜曜河-07-大凶.png": {
+    "tier": "大凶",
+    "role": "喜曜河",
+    "sha256": "74bfc05be5563d0eeeb3c556f13b9221350fb5517f834c278676a9d3247274a6"
+  },
+  "喜曜河-08-彩蛋.png": {
+    "tier": "彩蛋",
+    "role": "喜曜河",
+    "sha256": "07fdb1c9109528717760b48823d225739ad754b31708b757fa7775f12f23c012"
+  },
+  "塞琳-01-大吉.png": {
+    "tier": "大吉",
+    "role": "塞琳",
+    "sha256": "bbdea36b56a115e1652d04611a5d16aadc69fa7483150d0938277a658293eb8c"
+  },
+  "塞琳-02-中吉.png": {
+    "tier": "中吉",
+    "role": "塞琳",
+    "sha256": "c4fc4f2ca9f2d9d55ddaa185f553af905f58f86cbe8d323c54b87a28a85ca4d7"
+  },
+  "塞琳-03-小吉.png": {
+    "tier": "小吉",
+    "role": "塞琳",
+    "sha256": "66d8f0ab9c1527d0d6b37e11eb656c84d295d9cb619460a764361cfe554c6f33"
+  },
+  "塞琳-04-吉.png": {
+    "tier": "吉",
+    "role": "塞琳",
+    "sha256": "1c8bcd8334d3d8a0f793785c635978d7bda2bd296351b12decb97a1a7136a271"
+  },
+  "塞琳-05-末吉.png": {
+    "tier": "末吉",
+    "role": "塞琳",
+    "sha256": "a40bd87d8c398ef0dde2741cf8e0d127a523921c5e5f8f7eaac3a8d00f003ed8"
+  },
+  "塞琳-06-凶.png": {
+    "tier": "凶",
+    "role": "塞琳",
+    "sha256": "e6a201f70b0444ef755233314fdda3c99c98a4e9908b4334b9d3c53b598cc7eb"
+  },
+  "塞琳-07-大凶.png": {
+    "tier": "大凶",
+    "role": "塞琳",
+    "sha256": "c71eef8b0e566488c8ce4b55f68d9a33f11327dc702c74580514efc60c7f3ebb"
+  },
+  "塞琳-08-彩蛋.png": {
+    "tier": "彩蛋",
+    "role": "塞琳",
+    "sha256": "f385e97523c82ffbbc0a3cadf4df50d6b8b5ac208a307757e8dfb82e05ace304"
+  },
+  "lxf-01-大吉.png": {
+    "tier": "大吉",
+    "role": "lxf",
+    "sha256": "c43ee3e1986c47302c7917e8d4ce8dd5c2bdfa5d63d6045cc530a96fa28936d8"
+  },
+  "lxf-02-中吉.png": {
+    "tier": "中吉",
+    "role": "lxf",
+    "sha256": "2d047b21128c94059d9d820015fbbf07ca9bab534d4f4a5de460c80be2d55b5a"
+  },
+  "lxf-03-小吉.png": {
+    "tier": "小吉",
+    "role": "lxf",
+    "sha256": "15e5b04b546ba758193f3bc65bc05bda9574c9e2fb30cd3c2550dd5b9ea715c5"
+  },
+  "lxf-04-吉.png": {
+    "tier": "吉",
+    "role": "lxf",
+    "sha256": "b4b4306728cb5247275f19dd99eb271b71d1cbba94a878d7dc2e842ca4fd0b20"
+  },
+  "lxf-05-末吉.png": {
+    "tier": "末吉",
+    "role": "lxf",
+    "sha256": "626cb63a95595ad6c9d8016b322f54ded33f82a70849bdd0b22726677cf61e18"
+  },
+  "lxf-06-凶.png": {
+    "tier": "凶",
+    "role": "lxf",
+    "sha256": "bedb9606b68ea11e28be49e4ddb18822306768c37db1671a420b7c1c7359405e"
+  },
+  "lxf-07-大凶.png": {
+    "tier": "大凶",
+    "role": "lxf",
+    "sha256": "37708806aca71dd81c4f964f0dec279c2004100e17f0e51f93047c31944d8d01"
+  },
+  "lxf-08-彩蛋.png": {
+    "tier": "彩蛋",
+    "role": "lxf",
+    "sha256": "140474d0b46d5d25a55cd8975c3349473d5e74ebc16c7d7e170ac4d7a3d6d6bf"
+  },
+  "绯云鸢-01-大吉.png": {
+    "tier": "大吉",
+    "role": "绯云鸢",
+    "sha256": "d43ba12c14d89a451db7269811fa5112ad39aa1e81dd6af54d13ffba54ae4f51"
+  },
+  "绯云鸢-02-中吉.png": {
+    "tier": "中吉",
+    "role": "绯云鸢",
+    "sha256": "4efcbb44ebd1d2d0878a34fd1b56a6e60f1da3227c04c823014a8abfccfafe72"
+  },
+  "绯云鸢-03-小吉.png": {
+    "tier": "小吉",
+    "role": "绯云鸢",
+    "sha256": "ef1f88e4089887a1bda64f60e65fad7b4d990684c1241a8efce30ac143da2475"
+  },
+  "绯云鸢-04-吉.png": {
+    "tier": "吉",
+    "role": "绯云鸢",
+    "sha256": "6ec2433c9c828309c38d1ed8f76e045f838bcd8445848ea89eb009f8d2165e48"
+  },
+  "绯云鸢-05-末吉.png": {
+    "tier": "末吉",
+    "role": "绯云鸢",
+    "sha256": "e35ce35fb0f966d615f6ffe76345cf14a521cd63502b84bd88e295d6bb10fd75"
+  },
+  "绯云鸢-06-凶.png": {
+    "tier": "凶",
+    "role": "绯云鸢",
+    "sha256": "130b6d0ba200b263d6bd7f84eebfdc22b26ff9d1f1a31e97aa85f0697aa4af2f"
+  },
+  "绯云鸢-07-大凶.png": {
+    "tier": "大凶",
+    "role": "绯云鸢",
+    "sha256": "9352f17d5724a186230385d4dff05ecfe7e55dd1fee4934c2b8b3b85ecaf3950"
+  },
+  "绯云鸢-08-彩蛋.png": {
+    "tier": "彩蛋",
+    "role": "绯云鸢",
+    "sha256": "74c13a78f8e67c4e334cf7f7fcd372c6930a06bd2c5e7b9449a8b5a8b4ae653a"
+  },
+  "七色堇-01-大吉.png": {
+    "tier": "大吉",
+    "role": "七色堇",
+    "sha256": "53b3c0d1221e1de92441acb0902653ef792e089d8f0ed97bd8a4a400d8e24abf"
+  },
+  "七色堇-02-中吉.png": {
+    "tier": "中吉",
+    "role": "七色堇",
+    "sha256": "62b987de4ecf8abf5e99a86caa1223cb96bfda691e375dbd01ca9a747c16f8a8"
+  },
+  "七色堇-03-小吉.png": {
+    "tier": "小吉",
+    "role": "七色堇",
+    "sha256": "2ed5cb3ef35c671a1fa0c41a5de0f9be70788463807f033650d4e9084f9ee7d2"
+  },
+  "七色堇-04-吉.png": {
+    "tier": "吉",
+    "role": "七色堇",
+    "sha256": "07a48bc1d5ea483170c3bf709fb3d4828949899226cef329e36d7df2a340b020"
+  },
+  "七色堇-05-末吉.png": {
+    "tier": "末吉",
+    "role": "七色堇",
+    "sha256": "aeceb5f3fa5efeac22a22a50bc3cda5e70010aedb69e4609bc9cd2cabb070a45"
+  },
+  "七色堇-06-凶.png": {
+    "tier": "凶",
+    "role": "七色堇",
+    "sha256": "7716c2b9733469d4eedce363967a117842d29d2905009bd5b0af9fcb0b888a16"
+  },
+  "七色堇-07-大凶.png": {
+    "tier": "大凶",
+    "role": "七色堇",
+    "sha256": "8f3ceac188ebc433cae45eda78c4fb1a224cc6e370566aea584d37cfc3fb46f6"
+  },
+  "七色堇-08-彩蛋.png": {
+    "tier": "彩蛋",
+    "role": "七色堇",
+    "sha256": "bfc2ccb20c5cfc9cf3388509c8fbd8c8717be90500b664d63aed83c4f404f078"
+  },
+  "莎诺塔-01-大吉.png": {
+    "tier": "大吉",
+    "role": "莎诺塔",
+    "sha256": "6f5dd67173abdacad49ff9ebbdff17c2197178a0ecf3eed40a63b9832a19c9f5"
+  },
+  "莎诺塔-02-中吉.png": {
+    "tier": "中吉",
+    "role": "莎诺塔",
+    "sha256": "1e2ebc38eb771629bc3900292cf1d75eb1947f20cca63364154d38ae5346df97"
+  },
+  "莎诺塔-03-小吉.png": {
+    "tier": "小吉",
+    "role": "莎诺塔",
+    "sha256": "c56e7158898b8628333e3cd79c886965490011b42076af4c076ec43f373fd5ec"
+  },
+  "莎诺塔-04-吉.png": {
+    "tier": "吉",
+    "role": "莎诺塔",
+    "sha256": "84dae168131c930832131881d73e409db4dfef5820165665274657f8d9c3f180"
+  },
+  "莎诺塔-05-末吉.png": {
+    "tier": "末吉",
+    "role": "莎诺塔",
+    "sha256": "0d789b5131a971504eef08f6181db2a4e75ee003965338a7fe151a7b58864913"
+  },
+  "莎诺塔-06-凶.png": {
+    "tier": "凶",
+    "role": "莎诺塔",
+    "sha256": "5c24af25219b7f32d4bd417c8fa11dd69d93bb07b2d700682b7891b7c06126cd"
+  },
+  "莎诺塔-07-大凶.png": {
+    "tier": "大凶",
+    "role": "莎诺塔",
+    "sha256": "6d97e564dc9b480f7b37764463ab21157782c9f2e88afb4d0fc02b0319fb949e"
+  },
+  "莎诺塔-08-彩蛋.png": {
+    "tier": "彩蛋",
+    "role": "莎诺塔",
+    "sha256": "13ea1c266b96b4d7f019b79770a8c5a1341762827a3648ec1f3e8f7860ea8efd"
+  }
+}

@@ -1,0 +1,470 @@
+[
+  {
+    "name": "nonebot-plugin-alconna",
+    "version": "0.62.1",
+    "license": "MIT",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_alconna-0.62.1.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-animalvoice",
+    "version": "0.2.2",
+    "license": "GPLv3",
+    "classifiers": [
+      "License :: Other/Proprietary License"
+    ],
+    "files": [
+      "nonebot_plugin_animalvoice-0.2.2.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-antiflash",
+    "version": "0.2.3",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_antiflash-0.2.3.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-antiinsult",
+    "version": "0.7.1",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_antiinsult-0.7.1.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-antirecall",
+    "version": "0.1.4",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_antirecall/LICENSE",
+      "nonebot_plugin_antirecall-0.1.4.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-apscheduler",
+    "version": "0.5.0",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_apscheduler-0.5.0.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-batarot",
+    "version": "0.3.0",
+    "license": "MIT",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_batarot-0.3.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-bilibilibot",
+    "version": "2.3.4",
+    "license": "GNU",
+    "classifiers": [
+      "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
+    ],
+    "files": [
+      "nonebot_plugin_bilibilibot-2.3.4.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-bread-shop",
+    "version": "0.1.14",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_bread_shop-0.1.14.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-dialectlist",
+    "version": "3.0.1",
+    "license": "MIT",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_dialectlist-3.0.1.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-eventmonitor",
+    "version": "0.4.9",
+    "license": "MIT License\n         \n         Copyright (c) 2023 Reversedeer\n         \n         Permission is hereby granted, free of charge, to any person obtaining a copy\n         of this software and associated documentation files (the \"Software\"), to deal\n         in the Software without restriction, including without limitation the rights\n         to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n         copies of the Software, and to permit persons to whom the Software is\n         furnished to do so, subject to the following conditions:\n         \n         The above copyright notice and this permission notice shall be included in all\n         copies or substantial portions of the Software.\n         \n         THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n         IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n         FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n         AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n         LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n         SOFTWARE.",
+    "classifiers": [
+      "License :: Other/Proprietary License"
+    ],
+    "files": [
+      "nonebot_plugin_eventmonitor-0.4.9.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-groupmate-waifu",
+    "version": "1.6.1",
+    "license": null,
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_groupmate_waifu-1.6.1.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-guild-patch",
+    "version": "0.2.3",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_guild_patch-0.2.3.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-heweather",
+    "version": "0.11.0",
+    "license": "MIT License\n        \n        Copyright (c) 2021 kexue\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all\n        copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n        SOFTWARE.",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_heweather-0.11.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-hikarisearch",
+    "version": "0.1.7",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_hikarisearch-0.1.7.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-homo-mathematician",
+    "version": "0.0.7",
+    "license": null,
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_homo_mathematician-0.0.7.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-horserace",
+    "version": "2.2",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_horserace-2.2.dist-info/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-htmlrender",
+    "version": "0.8.1",
+    "license": "MIT License\n        \n        Copyright (c) 2021 kexue\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all\n        copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n        SOFTWARE.",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_htmlrender-0.8.1.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-imageutils",
+    "version": "0.1.17",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_imageutils-0.1.17.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_learning_chat",
+    "version": "0.4.0",
+    "license": "AGPL",
+    "classifiers": [
+      "License :: Other/Proprietary License"
+    ],
+    "files": [
+      "nonebot_plugin_learning_chat-0.4.0.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-localstore",
+    "version": "0.7.4",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_localstore-0.7.4.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-matcher-block",
+    "version": "0.2.0",
+    "license": null,
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_matcher_block-0.2.0.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-miao",
+    "version": "1.1.0",
+    "license": "AGPL",
+    "classifiers": [
+      "License :: Other/Proprietary License"
+    ],
+    "files": [
+      "nonebot_plugin_miao-1.1.0.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-morning",
+    "version": "0.3.2",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_morning-0.3.2.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-namelist",
+    "version": "0.2.0",
+    "license": "MIT",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_namelist-0.2.0.dist-info/license_files/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-orm",
+    "version": "0.8.3",
+    "license": "MIT",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_orm-0.8.3.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-person",
+    "version": "0.0.5",
+    "license": "MIT License",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_person-0.0.5.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-picsearcher",
+    "version": "0.1.10",
+    "license": "GPLv3",
+    "classifiers": [
+      "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
+    ],
+    "files": [
+      "nonebot_plugin_picsearcher-0.1.10.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-quote",
+    "version": "0.5.1",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_quote/pilmoji/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-savor",
+    "version": "0.2.2",
+    "license": "MIT",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_savor-0.2.2.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-send-anything-anywhere",
+    "version": "0.7.1",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_send_anything_anywhere-0.7.1.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-tortoise-orm",
+    "version": "0.1.4",
+    "license": "MIT",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_tortoise_orm-0.1.4.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-trace-moe",
+    "version": "0.1.0",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_trace_moe-0.1.0.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-what2eat",
+    "version": "0.3.6",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_what2eat-0.3.6.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot-plugin-word-bank2",
+    "version": "0.2.1",
+    "license": "GPL-3.0",
+    "classifiers": [],
+    "files": [
+      "nonebot_plugin_word_bank2-0.2.1.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_bottle",
+    "version": "2.1.1.0",
+    "license": "GNU GPLv3",
+    "classifiers": [
+      "License :: Other/Proprietary License"
+    ],
+    "files": []
+  },
+  {
+    "name": "nonebot_plugin_chatrecorder",
+    "version": "0.7.0",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_chatrecorder-0.7.0.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_crazy_thursday",
+    "version": "0.2.8",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_crazy_thursday-0.2.8.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_memes",
+    "version": "0.8.1",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_memes-0.8.1.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_memes_api",
+    "version": "0.5.1",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_memes_api-0.5.1.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_poke",
+    "version": "0.3.0",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_poke-0.3.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_remake",
+    "version": "0.4.4",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_remake-0.4.4.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_session",
+    "version": "0.3.2",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_session-0.3.2.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_session_orm",
+    "version": "0.2.2",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_session_orm-0.2.2.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "nonebot_plugin_userinfo",
+    "version": "0.2.6",
+    "license": "MIT",
+    "classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ],
+    "files": [
+      "nonebot_plugin_userinfo-0.2.6.dist-info/LICENSE"
+    ]
+  }
+]
