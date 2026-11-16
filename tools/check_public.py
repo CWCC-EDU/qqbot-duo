@@ -6,6 +6,8 @@ warnings.filterwarnings('ignore',category=SyntaxWarning)
 for file in ROOT.rglob('*'):
     if not file.is_file() or '.git' in file.parts:continue
     relative=file.relative_to(ROOT).as_posix();count+=1
+    if re.search(r'(?:^|/)(?:napcat[^/]*|qqnt|nt_qq|nt_data|nt_db)(?:/|$)|(?:^|/)(?:auth_token\.txt|webui\.json|onebot11_\d+\.json|cookies\.txt|qrcode[^/]*\.(?:png|jpg))$',relative,re.I):
+        failures.append((relative,'协议端或QQ登录文件'))
     if file.name.startswith('.env') and file.name!='.env.example':failures.append((relative,'真实环境文件'))
     if file.suffix.lower() in ('.db','.sqlite','.sqlite3','.key','.log','.exe','.dll','.pyd'):failures.append((relative,'运行状态或密钥/二进制文件'))
     if any(part in ('database','cache','media-cache','data') for part in file.relative_to(ROOT).parts):failures.append((relative,'运行数据目录'))

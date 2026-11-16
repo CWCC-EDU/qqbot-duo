@@ -33,3 +33,17 @@ __pycache__/
 **/resource/config.json
 **/group_busy_peers.sqlite3
 **/网页密钥*
+# Protocol clients and local QQ login state are private deployment files.
+[Nn]ap[Cc]at*/
+**/[Nn]ap[Cc]at*/
+**/QQNT/
+**/nt_qq/
+**/nt_data/
+**/nt_db/
+**/auth_token.txt
+**/webui.json
+**/onebot11_*.json
+**/qrcode*.png
+**/qrcode*.jpg
+**/cookies.txt
+**/*.session
